@@ -1,4 +1,4 @@
-# verity-dx
+# Verity *DX*
 ## a program based off of ThatMob's series
 
 "Say hello to **Verity**! your personal helper friend. you can ask them anything, they say they know everything, but watch out! they will get too curious over time..."
